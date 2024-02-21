@@ -46,7 +46,7 @@ python text_classification.py
 - The predictions made by the classifier on the test data will be saved in a file named `predicted_output_logistic_regression.txt`.
 - A file named `genre_counts.txt` will be generated containing the count of all available genres in the training data.
 
-Datasets
+## Datasets
 The datasets used in this project can be found on Kaggle at the following link: https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb
 
 ## Description
@@ -94,7 +94,7 @@ python fraud_detection.py
 
 - The predictions made by the classifier on the test data will be saved in a file named `fraud_predictions.csv`.
 
-# Datasets
+## Datasets
 
 The datasets used in this project can be found on Kaggle at the following link: [Fraud Detection Dataset](https://www.kaggle.com/datasets/kartik2112/fraud-detection)
 
