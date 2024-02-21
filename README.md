@@ -38,7 +38,7 @@ nltk.download('stopwords')
 Run the following command to execute the code:
 
 ```bash
-python text_classification.py
+python Movie_genre.py
 ```
 
 ### 3. Output
@@ -87,7 +87,7 @@ pip install pandas scikit-learn
 Run the following command to execute the code:
 
 ```bash
-python fraud_detection.py
+python Fraud_detection.py
 ```
 
 ### 3. Output
@@ -143,7 +143,7 @@ nltk.download('stopwords')
 Run the following command to execute the code:
 
 ```bash
-python spam_classification.py
+python Sms_detection.py
 ```
 
 ### 3. Input
